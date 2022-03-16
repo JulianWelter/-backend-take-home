@@ -1,6 +1,6 @@
-package com.example.teste.models
+package com.example.backend.models
 
-import com.example.teste.dtos.PastExperiencesDTO
+import com.example.backend.dtos.PastExperiencesDTO
 
 data class PastExperiences(
 
@@ -13,7 +13,7 @@ data class PastExperiences(
         pastExperiencesDTO.support
     )
 
-    fun calculatePastExperiences(): Long {
+    fun calculatePastExperiences(): Int {
         return when {
             this.sales -> 5
             this.support -> 3
