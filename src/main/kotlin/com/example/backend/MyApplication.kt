@@ -1,4 +1,4 @@
-package com.example.teste
+package com.example.backend
 
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration
 import org.springframework.boot.autoconfigure.SpringBootApplication

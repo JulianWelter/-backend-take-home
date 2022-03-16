@@ -1,6 +1,6 @@
-package com.example.teste.dtos
+package com.example.backend.dtos
 
-import com.example.teste.models.PastExperiences
+import com.example.backend.models.PastExperiences
 
 data class PastExperiencesDTO(
 
