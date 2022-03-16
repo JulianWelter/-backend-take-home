@@ -32,5 +32,5 @@
 ### 📄 About the project
 
 - By default this project will be started on port 8080
-- This project was testing using JDK 15 and maven version 3.6.3
+- This project was tested using JDK 15 and maven version 3.6.3
 - Unit tests are located at src/test/kotlin/com/example/backend
